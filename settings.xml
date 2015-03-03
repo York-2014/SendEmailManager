@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+	<server>http://www.pandacheer.net/drgrabscript/edmtask</server>
+	<country>
+		<item code="AU" label="6228" to="paddy@drgrabau.sendcloud.org" from="noreply@edm.drgrab.com.au"/>
+		<item code="NZ" label="6229" to="paddy@drgrabau.sendcloud.org" from="noreply@edm.drgrab.co.nz"/>
+		<item code="US" label="6230" to="paddy@drgrabau.sendcloud.org" from="noreply@edm.drgrab.com"/>
+		<item code="CA" label="6231" to="paddy@drgrabau.sendcloud.org" from="noreply@edm.drgrab.ca"/>
+		<item code="UK" label="6227" to="paddy@drgrabau.sendcloud.org" from="noreply@edm.drgrab.co.uk"/>
+	</country>
+</settings>
